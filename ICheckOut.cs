@@ -8,5 +8,7 @@ namespace PenguinLibrary
 {
     public interface ICheckOut
     {
+        public void CheckOut();
+        public void ReturnBook();
     }
 }
