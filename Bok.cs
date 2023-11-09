@@ -21,7 +21,8 @@ namespace PenguinLibrary
         public void PrintInfo()
         {
             Console.WriteLine($"Title: {Title}\nAuthor: {Author}\nISBN: {ISBN}");
-        }
+
+        } 
 
     }
 }
